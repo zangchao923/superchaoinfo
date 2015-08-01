@@ -303,6 +303,7 @@ body {
 	text-rendering: optimizeLegibility;
 	color: #444;
 	background:url(http://superchaoinfo.qiniudn.com/5-1206010S327-51.gif) repeat #efefef;
+	background-attachment: fixed;
 }
 body.custom-font-enabled {
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
