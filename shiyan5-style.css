@@ -302,7 +302,7 @@ body {
 	font-family: Helvetica, Arial, sans-serif;
 	text-rendering: optimizeLegibility;
 	color: #444;
-	background:url(http://7b1fi3.com1.z0.glb.clouddn.com/bei%20jing%20%20jpeg.jpg) repeat #efefef;
+	background:url(http://7b1fi3.com1.z0.glb.clouddn.com/bei%20jing%20%20jpeg.jpg); background-repeat:repeat; background-attachment:fixed #efefef;
 }
 body.custom-font-enabled {
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
