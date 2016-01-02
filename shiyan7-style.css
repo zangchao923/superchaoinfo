@@ -13,7 +13,7 @@ body#layout ul{list-style-type:none;list-style:none}
 body#layout ul li{list-style-type:none;list-style:none}
 body#layout .site-content {width:500px;}
 
-/* Variable definitions
+/* Variable definitions变量
    ====================
 
 */
@@ -263,7 +263,7 @@ video {
 	overflow: hidden;
 }
 #nav-above {
-	padding: 24px 0;
+	padding: 14px 0;
 	padding: 1.714285714rem 0;
 }
 #nav-above {
@@ -404,7 +404,7 @@ a:hover {
 	width: 100%;
 }
 .main-navigation li {
-	margin: 0 7px 0 0;
+	margin: 0 15px 0 0;
 	position: relative;
 	font-size: 15px;
 	font-family: 宋体;
