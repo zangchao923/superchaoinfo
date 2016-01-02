@@ -388,7 +388,7 @@ a:hover {
 
 /* Navigation Menu */
 .main-navigation {
-	margin-top: 14px;
+	margin-top: 24px;
 	text-align: left;
 }
 #site-navigation.main-navigation ul {
@@ -406,7 +406,7 @@ a:hover {
 .main-navigation li {
 	margin: 0 15px 0 0;
 	position: relative;
-	font-size: 15px;
+	font-size: 16px;
 	font-family: 宋体;
 	line-height: 1.0;
 }
