@@ -1182,3 +1182,10 @@ a.says {
 .reaction-buttons table, .reaction-buttons td{
   border:none;
 }
+
+
+
+div.wumii-related-items-div div a {
+font-size: 0px !important;
+padding: 0;
+}
