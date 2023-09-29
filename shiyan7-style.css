@@ -13,7 +13,7 @@ body#layout ul{list-style-type:none;list-style:none}
 body#layout ul li{list-style-type:none;list-style:none}
 body#layout .site-content {width:500px;}
 
-/* Variable definitions变量
+/* Variable definitions
    ====================
 
 */
@@ -292,7 +292,7 @@ video {
 /* =Basic structure
 -------------------------------------------------------------- */
 
-/* Body, links, basics */
+/* Body, links, basics网站壁纸 */
 html {
 	font-size: 87.5%;
 }
@@ -302,7 +302,7 @@ body {
 	font-family: Helvetica, Arial, sans-serif;
 	text-rendering: optimizeLegibility;
 	color: #444;
-	background:url(http://superchaoinfo.qiniudn.com/t01014b760c3abf5ac3.jpg) repeat #efefef;
+	background:url(https://z1.ax1x.com/2023/09/29/pPqi6HA.jpg) repeat #efefef;
 	background-attachment: fixed;
 }
 body.custom-font-enabled {
